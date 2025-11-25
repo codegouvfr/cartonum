@@ -1,0 +1,73 @@
+****** Applications techniques 
+******* Gestion technique et exploitation
+
+- Supervision des services
+- Gestion des services 
+- Gestion des configurations
+- Observation des services
+
+******* Gestion de la donnée 
+
+- Gestion des sauvegardes
+- Système de gestion des bases de données
+- Moteur de recherche
+- NoSQL
+- Datalakes
+
+******* Infrastructure 
+
+- Gestion des actifs
+- Gestion des réseaux
+- Système d'exploitation
+- Hypervision
+- Virtualisation
+
+******* Middleware et intégration
+
+- Orchestration
+- Transformation des données (ETL)
+- Gestion des APIs
+- Bus des services
+
+****** Applications transverses ou généralistes
+******* Collaboration et communication
+
+- Messagerie
+- Visioconférences
+- Gestion des documents
+- Suite bureautique collaborative
+
+******* Services transverses
+
+- Gestion des identités et des accès
+- Sécurité
+- Gestion des référentiels
+- IA
+
+****** Applications métier
+******* Coeur ou sectoriel 
+
+- Gestion des ressources (ERP)
+- Gestion des relations (CRM)
+- Logistique (SCM)
+
+******* Support
+
+- Gestion de projets
+- SIRH
+- Finances
+- Achats
+
+******* Décisionnel ou Pilotage
+
+- BI
+- Dataviz
+- Aide à la décision
+- Pilotage budgétaire 
+
+******* Développements
+
+- Forge
+  - Gestionnaire de version
+- Low/No code
+
