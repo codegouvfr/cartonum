@@ -28,8 +28,16 @@
 - Transformation des données (ETL)
 - Gestion des APIs
 - Bus des services
-
+- Bus de messages (message broker)
+  
 ****** Applications transverses ou généralistes
+******* Poste de travail
+
+- Bureautique
+- Messagerie
+- Navigateur
+- Gestion des fichiers
+
 ******* Collaboration et communication
 
 - Messagerie
@@ -41,12 +49,18 @@
 
 - Gestion des identités et des accès
 - Sécurité
+  - EDR/xDR
+  - Chiffrement
 - Gestion des référentiels
 - IA
-
+  - Modèles de langage 
+  - Vision par ordinateur
+  - Agents
+        
 ****** Applications métier
 ******* Coeur ou sectoriel 
 
+- Gestion de contenus (ECM)
 - Gestion des ressources (ERP)
 - Gestion des relations (CRM)
 - Logistique (SCM)
@@ -67,7 +81,10 @@
 
 ******* Développements
 
+- Outils liés aux langages
 - Forge
-  - Gestionnaire de version
+- Outils de CI/CD
+- Gestionnaire de version
 - Low/No code
-
+- Gestionnaire de paquets
+- IDE
