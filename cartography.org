@@ -13,6 +13,7 @@
 - Moteur de recherche
 - NoSQL
 - Datalakes
+- Warehouse
 - Formats
 
 ******* Infrastructure 
