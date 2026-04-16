@@ -22,6 +22,7 @@
 
 - Gestion des actifs
 - Gestion des réseaux
+- Accès aux actifs
 - Système d'exploitation
 - Hypervision
 - Virtualisation
