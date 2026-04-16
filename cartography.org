@@ -41,13 +41,13 @@
 ******* Poste de travail
 
 - Bureautique
-- Messagerie
+- Messagerie locale
 - Navigateur
 - Sauvegarde de documents
 
 ******* Collaboration et communication
 
-- Messagerie
+- Messagerie instantanée
 - Visioconférences
 - Partage de documents
 - Suite bureautique collaborative
