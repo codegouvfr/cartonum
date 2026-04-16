@@ -44,6 +44,7 @@
 - Messagerie locale
 - Navigateur
 - Sauvegarde de documents
+- Gestion des mots de passe
 
 ******* Collaboration et communication
 
@@ -51,6 +52,7 @@
 - Visioconférences
 - Partage de documents
 - Suite bureautique collaborative
+- Coffre fort partagé
 
 ******* Services transverses
 
