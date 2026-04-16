@@ -43,13 +43,12 @@
 - Bureautique
 - Messagerie
 - Navigateur
-- Gestion des fichiers
 
 ******* Collaboration et communication
 
 - Messagerie
 - Visioconférences
-- Gestion des documents
+- Partage de documents
 - Suite bureautique collaborative
 
 ******* Services transverses
