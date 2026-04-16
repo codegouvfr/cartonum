@@ -43,6 +43,7 @@
 - Bureautique
 - Messagerie
 - Navigateur
+- Sauvegarde de documents
 
 ******* Collaboration et communication
 
