@@ -77,6 +77,7 @@
 ******* Support
 
 - Gestion de projets
+- Gestion de formation
 - SIRH
 - Finances
 - Achats
